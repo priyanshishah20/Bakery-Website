@@ -1,5 +1,5 @@
 # Bakery-Website
-Bakery Website using HTML and CSS.
+Designed a Bakery Website using HTML and CSS.
 
 # Output
 ![image](https://user-images.githubusercontent.com/92794107/218297588-7a2e4802-d9cd-45c9-8d6f-58bc5df9d289.png)
